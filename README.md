@@ -12,7 +12,7 @@ This repository contains my solutions for the introductory programming course at
 * **Focus:** String manipulation, methods, and iteration.
 * **Description:** Implemented functions to validate DNA sequences, manipulate DNA strings and count nucleotides.
 
-### Assignment 3: Word Search Game (Original Implementation)
+### Assignment 3: Word Search Game
 * **Focus:** Matrix logic (nested lists), file I/O, and boundary validation.
 * **Key Feature:** This is a fully functional Word Search engine developed entirely by me.
 ---
@@ -31,7 +31,7 @@ This repository contains my solutions for the introductory programming course at
 | :--- | :--- |
 | `a1time_calculation.py` | Logic for time and offset calculations. |
 | `a2dna_processing.py` | DNA sequence analysis and validation. |
-| `a3.py` | The core Word Search engine (Original Work). |
+| `a3.py` | The core Word Search engine. |
 | `a3_driver.py` | Execution script to run the Word Search game. |
 | `board1.txt` / `wordlist1.txt` | Dataset files for the game board and dictionary. |
 
