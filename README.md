@@ -14,8 +14,7 @@ This repository contains my solutions for the introductory programming course at
 
 ### Assignment 3: Word Search Game (Original Implementation)
 * **Focus:** Matrix logic (nested lists), file I/O, and boundary validation.
-* **Key Feature:** This is a fully functional Word Search engine developed entirely by me. It includes a custom `isIn` function to manage coordinate boundaries and a robust search algorithm to locate words within a grid.
-
+* **Key Feature:** This is a fully functional Word Search engine developed entirely by me.
 ---
 
 ## Technical Skills
